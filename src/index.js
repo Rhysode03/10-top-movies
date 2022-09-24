@@ -5,7 +5,6 @@ import "./index.css";
 import "bootstrap/dist/css/bootstrap.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import { type } from "@testing-library/user-event/dist/type";
 
 let data = require("./top10.json");
 
